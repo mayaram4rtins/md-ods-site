@@ -6,12 +6,11 @@
 
 # :pushpin: Index
 
-* [Index](https://github.com/mayaram4rtins/md-ods-site/blob/main/README.md#pushpin-índice)
+* [Index](https://github.com/mayaram4rtins/md-ods-site/blob/main/README.md#pushpin-index)
 * [Project Description](https://github.com/mayaram4rtins/md-ods-site/blob/main/README.md#page_facing_up-project-description)
 * [Project Functionality](https://github.com/mayaram4rtins/md-ods-site/blob/main/README.md#desktop_computer-project-functionality)
 * [Project Individual Development](https://github.com/mayaram4rtins/md-ods-site/blob/main/README.md#wrench-project-individual-development)
-* [Tools and Languages](https://github.com/mayaram4rtins/md-ods-site/blob/main/README.md#snake-ferramentas-e-linguagem-utilizadas)
-* [Project Process](https://github.com/mayaram4rtins/md-ods-site/blob/main/README.md#snake-ferramentas-e-linguagem-utilizadas)
+* [Tools and Languages](https://github.com/mayaram4rtins/md-ods-site/blob/main/README.md#snake-tools-and-languages)
 
 # :page_facing_up: Project Description
 
