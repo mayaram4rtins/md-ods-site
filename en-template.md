@@ -1,0 +1,32 @@
+# The intersection of the Sustainable Development Goals and digital thinking
+
+The Sustainable Development Goals (SDGs) are global political goals by the UN intersecting economic, social and environmental issues until 2030. On the other hand, we have solid digital thinking concepts that provide carefully innovative approaches to promote these SDGs. Therefore, considering 5 SDGs: 2. Zero hunger, 3. Good health and well-being, 4. Quality education, 6. Clean water and sanitation and 7. Affordable and clean energy, it is determined to intersect the tools that digital thinking provides to achieve these objectives.
+
+Considering SDG 2, this aims to eradicate hunger and provide adequate nutrition for all people, taking into account correct agricultural practice.
+
+One of the main factors that increase the level of hunger in the world is food waste. It is estimated that 1.3 billion tons of food are lost every year (Food and Agriculture Organization of the United Nations).
+
+One of the causes for this waste is the aesthetic value of these foods, meaning that products that are not visually attractive end up being discarded, even if they still contain their nutritional values.
+
+One way to avoid improper disposal of these foods would be to have them gathered by a government organization and distributed to people in need. This could be done through an online portal where supplier establishments would be registered. These establishments would receive some rewards determined by the portal organization for the donated food.
+
+For SDG 3, which talks about good health and well-being, technology and digital innovation enhance the projects raised by the objective as it works directly to improve health systems. According to Revista do Tecnólogo, through the promotion of telemedicine, thus reducing geographic inequality by allowing more services to be available to these populations. On the other hand, as mentioned by Sebrae itself, disease management, as occurred with COVID-19, through the production of vaccines and advances in nursing, medicine, biotechnology and collective health methodologies also makes it possible to visualize the influence of digital thinking in the context of how a pandemic was contained in a period of just under 3 years.
+
+On the other hand, considering SDG 4, we see several new forms of learning that have been evolving in recent years. Formats such as video classes with a more informal language and attractive audiovisual content, games in which the student interacts directly with the content and receives instant feedback on the current situation of their learning. However, there are some groups of people who are marginalized considering there new forms of learning. People with some type of disability, in an unfavorable economic situation or people who have stopped studying for some reason. 
+
+As mentioned above, technology proves to be a great ally and can make these people feel included and end up reducing their difficulties. For this to happen, the role of the educator is very important for the application of these technologies, to analyze the difficulties of each person and show an individualized path for each of them. According to the book Inclusive education, disability and social context, the main difficulties highlighted by the educators consulted are: the high number of students in each classroom and mainly the feeling of unpreparedness of the teachers themselves. 
+
+It is concluded that there is an extreme need for training education professionals, with online courses, partnerships with technology learning institutions to integrate these courses into teachers' routines and also partnerships with companies that can provide mobile devices for use in classrooms and popular learning centers for people who are already adults and have not completed their schooling or who want to integrate with new technologies and who can seek independence in the search for knowledge. Encourage these people to return to studying through incentives, with the use of social networks and digital influencers, showing paths and possibilities and opening up thoughts that they might not have had about teaching and how it could impact their lives.
+
+SDG 7 advocates that everyone can have access to clean and affordable energy. Aiming to ensure that everyone can have reliable, modern, sustainable and affordable access to energy, and this is very important because, in recent years, there has been a huge growth in energy demand in countries, and to keep up with this growth it is necessary to use new ways of generating energy through non-polluting sources so that we can preserve the environment.
+
+This sustainable objective highlights the importance of the energy transition, reducing the use of non-renewable and polluting sources, and increasing investment in renewable energy sources. The SDG is divided into small goals adapted to the reality of each country, with an agenda until 2030 Focused on sustainable development, Brazil also has its goals within the SDG.
+
+One of the ODS goals is “by 2030, ensure universal, reliable and modern access to energy services at affordable prices”. Brazil, according to data from the ODSbrasil website, has 99.8% of the population with access to electricity, in places In remote areas it is still difficult to reach electrical energy, a possible solution is to use other energy sources such as solar energy, with a photovoltaic system it is possible to take energy to these more remote places using sunlight as an energy source.
+
+Other goals involve using more renewable energy in the country's energy matrix and today in Brazil there is a lot of investment in the use of renewable energy, especially solar, today solar energy is already second in the Brazilian energy matrix, behind only energy through hydroelectric plants, and investments only tend to increase over the years.
+
+Finally, SDG 7 has an approach that uses digital technologies and tools to solve problems. Digital water monitoring can help identify sources of pollution and take action to resolve problems. Using digital technologies can help bring clean water and sanitation to remote and vulnerable communities.
+In this way, it is possible to evaluate with some evidence how innovative ways of solving these sustainable objectives go hand in hand with digital thinking. 
+
+[Veja a versão em português do texto](https://mayaram4rtins.github.io/md-ods-site/pt-template)
