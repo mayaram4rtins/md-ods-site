@@ -7,7 +7,7 @@
 # 🕸️ Links
 
 * [PT-BR](https://mayaram4rtins.github.io/md-ods-site/pt-template)
-* [EN-US](https://mayaram4rtins.github.io/md-ods-site/pt-template)
+* [EN-US](https://mayaram4rtins.github.io/md-ods-site/en-template)
 
 # 📌 Index
 
